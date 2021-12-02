@@ -56,4 +56,6 @@ public class StringDemo2 {
         String s2 = s1.intern();
         System.out.println(s1==s2);
     }
+
+
 }
